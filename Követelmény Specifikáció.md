@@ -50,6 +50,9 @@ A projekt célja egy olyan weboldal létrehozása, ahol zenéket lehet hallgatni
 ### Kifejtés
 
 
+#### ID
+
+
 
 
 
