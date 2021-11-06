@@ -5,3 +5,6 @@
 ## Jelenlegi helyzet
 
 
+## Jelenlegi üzleti folyamatok
+
+
