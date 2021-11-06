@@ -16,3 +16,6 @@ A projekt célja egy olyan weboldal létrehozása, ahol zenéket lehet hallgatni
 ## Funkcionális követelmények
 
 ## Fogalomtár
+
+## Rendszerre vonatkozó törvények
+
