@@ -29,5 +29,8 @@ A projekt célja egy olyan weboldal létrehozása, ahol zenéket lehet hallgatni
 ### Felelősségi szabályok
 
 
+### Technikai követelmények
+
+
 
 
