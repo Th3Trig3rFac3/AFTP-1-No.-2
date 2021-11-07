@@ -2,6 +2,8 @@
 
 ## Áttekintés
 
+Sokak számára kedvelt zenei stílus képviselője számára alkottok meg ezt a weboldalt. Az elmúlt két évben a vírushelyzet miatt különösen nehéz volt zenei korceteket látogatni, illetve szervezni. Ennek fényében készült el a weboldal, hogy mindenki digitálisan is megtapasztalhassa az általa kedvelt zenei stílust, amit ez a zenész képvisel, annak ellenére, hogy a személyes koncert élmény elmarad. A felületen regisztráció után lejátszható lesz néhány szám az előadónktól, de a teljes tár csak bizonyos összeg megfizetése után válik majd elérhetővé, ezzel is támogatva a zenészünk munkásságát, fentmaradását és közösen átsegíthetjük a vírus által okozott nehéz helyzeten. A zenék lejátszhatók lesznek böngészőből, aminek a kiélvezéséhez ajánlott egy minél jobb minőségű fejhallgató, hangszóró vagy hangrendszer, ugyanis magas bitrátán lesznek lejátszhatók a zeneszámok a megfelelő internet kapcsolat jelenlétében. Ha ez nem állna fent, akkor lehetőség lesz alacsonyabb minőségben is hallgatni kedvenceinket.
+
 ## Jelenlegi helyzet
 
 
