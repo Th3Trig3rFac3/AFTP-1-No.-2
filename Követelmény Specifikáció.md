@@ -2,8 +2,6 @@
 
 ## Áttekintés
 
-Sokak számára kedvelt zenei stílus képviselője számára alkottok meg ezt a weboldalt. Az elmúlt két évben a vírushelyzet miatt különösen nehéz volt zenei korceteket látogatni, illetve szervezni. Ennek fényében készült el a weboldal, hogy mindenki digitálisan is megtapasztalhassa az általa kedvelt zenei stílust, amit ez a zenész képvisel, annak ellenére, hogy a személyes koncert élmény elmarad. A felületen regisztráció után lejátszható lesz néhány szám az előadónktól, de a teljes tár csak bizonyos összeg megfizetése után válik majd elérhetővé, ezzel is támogatva a zenészünk munkásságát, fentmaradását és közösen átsegíthetjük a vírus által okozott nehéz helyzeten. A zenék lejátszhatók lesznek böngészőből, aminek a kiélvezéséhez ajánlott egy minél jobb minőségű fejhallgató, hangszóró vagy hangrendszer, ugyanis magas bitrátán lesznek lejátszhatók a zeneszámok a megfelelő internet kapcsolat jelenlétében. Ha ez nem állna fent, akkor lehetőség lesz alacsonyabb minőségben is hallgatni kedvenceinket.
-
 ## Jelenlegi helyzet
 
 
@@ -23,6 +21,9 @@ A felhasználót az oldal betöltésekor a bejelentkező felület fogadja, amin 
 
 ## Rendszerre vonatkozó törvények
 
+A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók (a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók (a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatóját nem fogadják el, abban az esetben nem jogosultak az oldal használatára.
+
+A jelen Felhasználási Feltételekre vonatkozóan a magyar jog az irányadó, tekintet nélkül a nemzetközi magánjog előírásaira. Az Alkalmazás Felhasználói kifejezetten hozzájárulnak ahhoz, hogy jogvita esetén a magyar hatóságoknak és bíróságoknak kizárólagos joghatóságuk van a magyar jog alapján.
 
 ### Általános Információk
 
