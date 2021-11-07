@@ -15,6 +15,8 @@ A projekt célja egy olyan weboldal létrehozása, ahol zenéket lehet hallgatni
 
 ## Funkcionális követelmények
 
+A felhasználót az oldal betöltésekor a bejelentkező felület fogadja, amin keresztül be tud lépni az oldalra. A bejelentkezéshez a "Bejelentkezés" gombra kattintva be kell írnia az egyéni, 12 karakterből álló kódját, majd jelszavát. Ha sikeresen bejelentkezett, akkor számára elérhető minden funkció, amire jogosultsága van. A jobb felső sarokban a felhasználó név alatt legördülő menüben jelenik meg a "Profil", ahol a saját adatai ellenőrizheti a felhasználó. Ez alatt találhatóak a további lehetőségek: "Beállítások", ahol többek között a jelszavát is meg tudja majd változtatni. Ebből a menüből érhető el a zenék és egyéb szöveges dokumentumok.
+
 ## Fogalomtár
 
 ## Rendszerre vonatkozó törvények
