@@ -9,6 +9,8 @@ Sokak számára kedvelt zenei stílus képviselője számára alkottok meg ezt a
 
 ## Jelenlegi üzleti folyamatok
 
+Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető mindenkinek a weboldalon keresztül. A művész ezt szeretné bővíteni fizetős tartalmakkal, amit a következő fejezetben fogunk kifejteni.
+
 ## Igényelt üzleti folyamatok
 
 ## Vágyálom rendszer
