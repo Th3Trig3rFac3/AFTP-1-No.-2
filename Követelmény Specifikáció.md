@@ -13,6 +13,8 @@ Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető m
 
 ## Igényelt üzleti folyamatok
 
+A megrendelő szeretné kibővíteni a weboldalát. Az elképzelés a további tartalmak elérése térítési díj megfizetése után. Az elbeszélgetés után a terv a következő: Lesz néhány ingyenesen elérehető zeneszám a regisztrálók száma, akik pedig megfizették a térítési/támogatói díjat, azok hozzáférést kapnak a teljes feltöltött zenei anyaghoz. Terveink szerintem a Twitch által használt adományozási rendszert kívánjuk hasznosítani, de egyéb megoldásokat is számításba vehetünk. Alternatívaként a PayPal-t is használhatjuk többek között.
+
 ## Vágyálom rendszer
 
 A projekt célja egy olyan weboldal létrehozása, ahol zenéket lehet hallgatni illetve letölteni. A cél egy könnyen átlátható és felhasználóbarát zenei oldal létrehozása, ahol a felhasználók a regisztráció után betudnak lépni a saját fiókjukba amivel azt érjük el,hogy minden felhasználónak külőn legyenek meg a saját zenéi amit szeretnének.A zenéket a weboldalon mindenki saját izlése szerint vásárolhatja meg.A zenékbe mindenki bele tud egy kicsit hallgatni viszont ha a teljes egészét szeretné meghallgatni azért fizetni-e kell egy méltányos összeget ami megvan adva minden zenénél.
