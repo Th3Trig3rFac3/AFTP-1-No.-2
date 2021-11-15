@@ -26,6 +26,8 @@ A felhasználót az oldal betöltésekor a bejelentkező felület fogadja, amin 
 
 ## Fogalomtár
 
+Front-end --> A weboldal annak a része, amit az átlag felhasználó használ
+
 ## Rendszerre vonatkozó törvények
 
 A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók (a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók (a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatóját nem fogadják el, abban az esetben nem jogosultak az oldal használatára.
