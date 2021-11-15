@@ -6,6 +6,7 @@ Sokak számára kedvelt zenei stílus képviselője számára alkottok meg ezt a
 
 ## Jelenlegi helyzet
 
+Jelenleg már van egy elkészített weboldal. Mi ezt fogjuk alapul venni és a megrendelő további igényeit ezen fogjuk teljesíteni. Ez a weboldal Wordpress alapú, egyszerűségét tekintve a jövőbeli bővítés nem kellene túl nagy problémát okozzon. Már ez a weboldal is tartalmaz zenelejátszót, kapcsolatok, blog és szöveges munkák fület. Ennek a munkának a gyümölcse nem lesz annyira látványos változás a front-end-en, inkább a háttérben fogunk bővíteni új funkciókkal.
 
 ## Jelenlegi üzleti folyamatok
 
