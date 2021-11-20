@@ -47,7 +47,7 @@ A jelen Felhasználási Feltételekre vonatkozóan a magyar jog az irányadó, t
 ### Egyéb rendelkezések
 
 ### Kapcsolat
-Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
+Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
 ## Követelménylista
 
 
