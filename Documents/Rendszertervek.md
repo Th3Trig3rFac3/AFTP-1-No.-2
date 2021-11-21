@@ -32,3 +32,5 @@ Projekt szerepkörök, felelősségek
 ## 10. Implementációs terv
 
 ## 11. Tesztterv
+
+## 12. Telepítési terv
