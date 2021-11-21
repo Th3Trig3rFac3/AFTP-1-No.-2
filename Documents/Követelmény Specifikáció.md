@@ -91,6 +91,9 @@ Jelen Felhasználási Feltételekben nem szabályozott kérdésekben a hatályos
 
 ### Kapcsolat
 Az Oldal támogatását az Üzemeltető végzi munkanapokon, 10:00 és 18:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
+
+## Követelménylista
+
 |   Modul   | ID |  Név   |  Verzió  |
 |-----------|----|--------|----------|
 |Jogosultság| K1 | Bejelentkezés|1.0|
