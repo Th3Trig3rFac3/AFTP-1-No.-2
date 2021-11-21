@@ -29,7 +29,8 @@ Adatbázisban  tárolt adatok:
 	Adatok hozzáadása, törlése, módosítása.
 
 # Követelmény lista:
-	Adatok hozzáadása, törlése, módosítás
+
+Adatok hozzáadása, törlése, módosítás
 
 ## 8. Képernyőtervek
 
