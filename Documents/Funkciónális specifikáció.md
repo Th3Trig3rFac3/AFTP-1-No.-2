@@ -34,6 +34,7 @@ Adatok hozzáadása, törlése, módosítás
 
 ## 8. Képernyőtervek
 
+[[/images/path/to/oneywayticket demó|Képernyőkép]]
 
 
 ## 9. Forgatókönyvek
