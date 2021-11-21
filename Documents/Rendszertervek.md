@@ -2,6 +2,11 @@
 
 ## 1. Rendszer célja
 
+- A rendszer célja a művésznek való  munkájának  megkönnyítése és annak zenéit eljutatni az emberekhez ez által a művészt támogatva
+- A program egy web alapú felületen fut, ami egy adatbázishoz van kapcsolva
+- Navigációs menün keresztül lehet egyes pontokba eljutni a rendszerben
+- A program célja, hogy a művésznek segítsünk valamiféle bevételi forráshoz
+
 ## 2. Projekt terv
 Projekt szerepkörök, felelősségek
 
