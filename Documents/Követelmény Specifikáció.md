@@ -52,12 +52,15 @@ A Felhasználási Feltételek és az Oldal működésének a módosítására, a
 
 ### Felelősségi szabályok
 
+Az új Ptk. a kártérítési felelősség szabályozása körében több ponton igen lényeges változtatásokat vezet be. A legjelentősebb változás a szerződésen kívüli (deliktuális) károkozásért és a szerződésszegéssel (kontraktuális) okozott károkért való felelősség egymástól való elszakítása, a két felelősség egymástól független szabályozása. A különválasztás lényege abban áll, hogy míg a szerződésszegésért való felelősség esetén szakít a régi Ptk. felróhatósági alapú felelősségi rendszerével, addig a szerződésen kívül okozott károkért való felelősség továbbra is a károkozó felróhatóságán alapul. A kontraktuális felelősség két ponton tér el a deliktuálistól: a szigorúbb kimentés [6:142. §] és a megtérítendő károk köre [6:143. §] vonatkozásában. Ezeken kívül viszont a 6:144. §-ában írt utaló szabállyal az új Ptk. is megtartja a kártérítési felelősségi jog egységét, mert az abban írtak szerint a kontraktuális felelősségre is alkalmazni rendeli a deliktuális felelősség szabályait.
 
 ### Technikai követelmények
 
+A technikai követelmény egy asztali számítógép,tablet,telefon amin elfut egy webböngésző program és letudja futtatni az oldalhoz tartozó kiegészítőket.
 
 ### Regisztráció és tárolt adatok
 
+Regisztrálni mindenki tud a weboldalon és létre tud hozzni magának egy saját fiókot, a jelszót megtudja jegyeztetni,fontos ,hogy tároljunk minden adatot a felhasználóról egy adatbázisban , esetlegesen ha az illető elfelejtené a jelszavát ezzel tudja magát azonosítani.A tárold adatokat szigorúan csak az adminisztrátor láthatja és kezelheti.Még az adminisztrátornak is szigorúan tilos vissza élni ezzel az adatokkal mivel ezek személyes adatok is lehetnek!!! Emelett a regisztráció során minden mezőt ki kell tölteni , illetve szeretnék ,hogy minél könnyebben lehessen be regisztrálni,hogy felhasználó barát legyen. A felhasználókat is megkérjük, hogy a jelszavukat olyan helyen tárolják ahol más nem fér hozzá, esetlegesen vissza élesek miatt, illetve természetesen ,hogy be tudjanak jelentkezni. Elfelejtett jelszót csak akkor tud a felhasználó kérni ha ki tölt bizonyos paramétereket, például gondolunk itt az email címre,nagyon fontos,hogy valódi email címet adjatok meg és legyen hozzájuk hozzá férésétek másnak pedig ne!
 
 ### Értesítések
 
@@ -87,17 +90,50 @@ Jelen Felhasználási Feltételekben nem szabályozott kérdésekben a hatályos
 |Adatbázis|K12|Adatbázis rendszer|1.0|
 
 ### Kapcsolat
-Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
+Az Oldal támogatását az Üzemeltető végzi munkanapokon, 10:00 és 18:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
+
 ## Követelménylista
 
-
+|   Modul   | ID |  Név   |  Verzió  |
+|-----------|----|--------|----------|
+|Jogosultság| K1 | Bejelentkezés|1.0|
+|Jogosultság|K2|Regisztráció|1.0|
+|Jogosultság|K3|Jogosultsági szintek|1.0|
+|Modifikáció|K4|Felhasználó módosítása|1.0|
+|Modifikáció|K5|Jelszó módosítása|1.0|
+|Modifikáció|K6|Elfelejtett felhasználónév/jelszó|1.0|
+|Statisztika|K7|Összes megtekintések|1.0|
+|Felület|K8|Profil|1.0|
+|Felület|K9|Hozzászólások|1.0|
+|Jogosultság|K10|Admin felület|1.0|
+|Jogosultság|K11|Moderátor felület|1.0|
+|Adatbázis|K12|Adatbázis rendszer|1.0|
 
 ### Kifejtés
-
-
 #### ID
+- K1  A felhasználó a "Bejelentkezés" gombbal be tud jelentkezni a megadott felhasználónév és jelszó párossal. Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk a rendszer.
 
+- K2  A "Regisztráció" gombra kattintva a felhasználó megadhatja az oldal használatához szükséges adatokat: "Felhasználó" mezőbe egy egyedi felhasználónevet; "e-mail" mezőbe a saját érvényes e-mail címét; "Jelszó" mezőbe egy egyedi kulcsszót, amit harmadik személynek semmiféleképpen nem adhatunk ki.
+Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk a rendszer.
 
+- K3  Felhasználói-Rendszerhozzáférés, like-olhat, küldhet üzenetet, tölthet fel profilképet, bemutatkozó szöveget.
 
+- K4 A felhasználó módosítani tudja saját Felhasználónevét a saját profil beállításain belül. Ehhez szükséges a régi és az új felhasználó név megadása, az új megerősítése, valamint a felhasználó jelszavának megadása.
+
+- K5 A felhasználó módosítani tudja saját jelszavát a saját profil beállításain belül. Ehhez szükséges a régi és az új jelszavának megadása, valamint az új megerősítése.
+
+- K6 Ha a felhasználó elfelejtette a felhasználónevét vagy jelszavát, akkor ezzel az opcióval egy Adminhoz tud fordulni e-mail címen keresztül.
+
+- K7 Egy lista a bejegyzésekről, hozzászólásokról, illetve témákról, valamint ezekről különféle statisztikák. (megtekintés, legfelkapottabb, stb.)
+
+- K8 A felhasználónak lehetősége van a profilján található szövegek módosítására.
+
+- K9 Ez egy reszponzív felület, amin keresztül a felhasználók hozzáférhetnek az oldalon lévő játékokhoz, hozzászólhatnak.
+
+- K10 Ez egy felület az admin fiókkal rendelkező felhasználók számára. Tartalmazza az egyes felhasználói csoportok jogainak szerkesztését, hozzászólások moderátori jelzését, új szobák létrehozását.
+
+- K11 Ez egy felület a moderátor fiókkal rendelkező felhasználók számára. Tartalmazza az egyes felhasználói csoportok jogainak szerkesztését, hozzászólások moderálási jogait, új szobák létrehozását.
+
+- K12 Adatbázis kapcsolat megtervezése és létrehozása.
 
 
