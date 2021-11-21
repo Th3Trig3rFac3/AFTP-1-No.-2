@@ -56,6 +56,7 @@ Az új Ptk. a kártérítési felelősség szabályozása körében több ponton
 
 ### Technikai követelmények
 
+A technikai követelmény egy asztali számítógép,tablet,telefon amin elfut egy webböngésző program és letudja futtatni az oldalhoz tartozó kiegészítőket.
 
 ### Regisztráció és tárolt adatok
 
