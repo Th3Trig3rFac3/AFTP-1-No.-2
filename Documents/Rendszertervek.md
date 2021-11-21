@@ -95,6 +95,8 @@ Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítj
 
 ## 11. Tesztterv
 
+A user avagy vendég teszteket a fejlesztés végén végezzük el a funkciók kipróbálásával és dokumentálásával. Konténerizált szerverrel.
+
 ## 12. Telepítési terv
 
 ## 13. Karbantartási terv
