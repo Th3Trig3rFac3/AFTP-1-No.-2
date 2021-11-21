@@ -34,8 +34,7 @@ Adatok hozzáadása, törlése, módosítás
 
 ## 8. Képernyőtervek
 
-[[/images/path/to/oneywayticket demó|Képernyőkép]]
-
+!(https://github.com/[Th3Trig3rFac3]/[AFTP-1-No.-2]/blob/[master]/[Documents]/[img/]oneywayticket demó.jpg)
 
 ## 9. Forgatókönyvek
 
