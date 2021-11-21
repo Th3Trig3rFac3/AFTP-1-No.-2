@@ -22,3 +22,5 @@ Projekt szerepkörök, felelősségek
 ## 5. Funkcionális terv
 
 ## 6. Fizikai környezet
+
+## 7. Absztrakt domain modell
