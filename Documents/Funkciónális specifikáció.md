@@ -16,3 +16,6 @@
 
 
 ## 5. Jelenlegi üzleti folyamatok modellje
+
+
+## 6. Igényelt üzleti folyamatok modellje
