@@ -34,3 +34,5 @@ Projekt szerepkörök, felelősségek
 ## 11. Tesztterv
 
 ## 12. Telepítési terv
+
+## 13. Karbantartási terv
