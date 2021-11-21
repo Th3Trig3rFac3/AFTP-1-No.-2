@@ -43,6 +43,21 @@ Projekt szerepkörök, felelősségek
 
 ## 5. Funkcionális terv
 
+- Rendszerszereplők
+  - Admin
+  - Vendég
+  
+- Rendszerhasználati esetek és lefutásaik:
+  - Admin
+    * Adatok megtekintése
+    * Adatok hozzáadása, törlése, módosítása
+    * A rendszerhez való teljes hozzáférés
+
+- Menü hierarchiák
+  - Kezdőlap
+    * Zenék megtekintése és meghallgatása, letöltése
+    * A művész által közéttet, irományok, hírek
+
 ## 6. Fizikai környezet
 
 ## 7. Absztrakt domain modell
