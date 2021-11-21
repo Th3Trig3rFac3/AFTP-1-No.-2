@@ -12,7 +12,7 @@ Projekt szerepkörök, felelősségek
 
 | Szerepkör | Személy|
 |---|:-|
-| -   product owner: Tajti Tibor |
+| -   product owner:  | Tajti Tibor |
 | - Senior fejlesztők: | Kurán Bertalan, Zsadányi Rózsa |
 |    - Junior fejlesztők: | Farkas Bálint, Juhász Domonkos, Ardó Balázs, Bodó Zoltán |
 ##
