@@ -52,6 +52,7 @@ A Felhasználási Feltételek és az Oldal működésének a módosítására, a
 
 ### Felelősségi szabályok
 
+Az új Ptk. a kártérítési felelősség szabályozása körében több ponton igen lényeges változtatásokat vezet be. A legjelentősebb változás a szerződésen kívüli (deliktuális) károkozásért és a szerződésszegéssel (kontraktuális) okozott károkért való felelősség egymástól való elszakítása, a két felelősség egymástól független szabályozása. A különválasztás lényege abban áll, hogy míg a szerződésszegésért való felelősség esetén szakít a régi Ptk. felróhatósági alapú felelősségi rendszerével, addig a szerződésen kívül okozott károkért való felelősség továbbra is a károkozó felróhatóságán alapul. A kontraktuális felelősség két ponton tér el a deliktuálistól: a szigorúbb kimentés [6:142. §] és a megtérítendő károk köre [6:143. §] vonatkozásában. Ezeken kívül viszont a 6:144. §-ában írt utaló szabállyal az új Ptk. is megtartja a kártérítési felelősségi jog egységét, mert az abban írtak szerint a kontraktuális felelősségre is alkalmazni rendeli a deliktuális felelősség szabályait.
 
 ### Technikai követelmények
 
