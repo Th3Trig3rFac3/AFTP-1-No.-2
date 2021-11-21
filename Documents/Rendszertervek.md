@@ -60,6 +60,14 @@ Projekt szerepkörök, felelősségek
 
 ## 6. Fizikai környezet
 
+Kliens:
+   - Eszköz: Asztali számítógép, Mobil telefon, Tablet
+
+  -  Operációs rendszer: Windows 7 vagy nagyobb
+
+    - Szükséges applikációk: Chrome böngésző
+
+    - Konfiguráció: Nem specifikus.
 ## 7. Absztrakt domain modell
 
 ## 8. Architekturális terv
