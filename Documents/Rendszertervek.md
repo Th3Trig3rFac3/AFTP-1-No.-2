@@ -12,6 +12,7 @@ Projekt szerepkörök, felelősségek
 
 | Szerepkör | Személy|
 |---|:-|
+| -   product owner: Tajti Tibor |
 | - Senior fejlesztők: | Kurán Bertalan, Zsadányi Rózsa |
 |    - Junior fejlesztők: | Farkas Bálint, Juhász Domonkos, Ardó Balázs, Bodó Zoltán |
 ##
@@ -20,6 +21,11 @@ Projekt szerepkörök, felelősségek
 | Senior fejlesztő: | A junior fejlesztők munkájának felügyelete és megkönnyítése tanácsadás által, segíthetnek kisebb projektelemek elkészítésében is. |
 | Junior fejlesztő: | A projekt elkészítése. Projekt munkások és felelősségeik |
 
+**Projekt munkások és felelősségeik**
+
+-   Webfelület:
+-   Wordpress
+-   php
 ## 3. Üzleti folyamatok modellje
 
 ## 4. Követelmények
