@@ -8,3 +8,7 @@
 
 
 ## 3. Vágyálom rendszer
+
+
+
+## 4. Feltételek
