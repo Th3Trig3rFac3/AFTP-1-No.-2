@@ -18,10 +18,11 @@ Az alkalmazásunk létrehozásának alapfeltétele, a PHP, vagy valamilyen más 
 
 ## 5. Jelenlegi üzleti folyamatok modellje
 
-A mai világban a legtöbb ember rádión kívül nem igazán hallgat mást. Ennek főbb oka a zeneszolgáltatások ára lehet, így nem ritka a feketén beszerzett zeneszámok (Sajnos olyanok is fordulnak ilyen módszerekhez, akik ezzel foglalkoznak (lást DJ-k)). Ezért arra jutottunk, én és a munkatársaim, hogy egy ingyenes, könnyű regisztrációs oldalt hozzunk létre, amely felkelti azon emberek érdeklődését akiket mindig érdekelt a zenei stílus viszont nem szerettek volna rájuk költeni. Ezért mi egyszerűen biztosítunk ingyenesen (regisztrációval) elérhető tartalmat, illetve támogatói díj ellenében a teljes könyvtárat elérhetővé tesszik a felhasználók számára, akik akár le is tölthetik azt.
+A mai világban a legtöbb ember rádión kívül nem igazán hallgat mást. Ennek főbb oka a zeneszolgáltatások ára lehet, így nem ritka a feketén beszerzett zeneszámok (Sajnos olyanok is fordulnak ilyen módszerekhez, akik ezzel foglalkoznak (lást DJ-k)). Ezért arra jutottunk, én és a munkatársaim, hogy egy ingyenes, könnyű regisztrációs oldalt hozzunk létre, amely felkelti azon emberek érdeklődését akiket mindig érdekelt a zenei stílus viszont nem szerettek volna rájuk költeni.
 
 ## 6. Igényelt üzleti folyamatok modellje
 
+Mi egyszerűen biztosítunk ingyenesen (regisztrációval) elérhető tartalmat, illetve támogatói díj ellenében a teljes könyvtárat elérhetővé tesszik a felhasználók számára, akik akár le is tölthetik azt.
 
 ## 7. Használati esetek
 Adatbázisban  tárolt adatok:
