@@ -18,6 +18,7 @@ Az alkalmazásunk létrehozásának alapfeltétele, a PHP, vagy valamilyen más 
 
 ## 5. Jelenlegi üzleti folyamatok modellje
 
+A mai világban a legtöbb ember rádión kívül nem igazán hallgat mást. Ennek főbb oka a zeneszolgáltatások ára lehet, így nem ritka a feketén beszerzett zeneszámok (Sajnos olyanok is fordulnak ilyen módszerekhez, akik ezzel foglalkoznak (lást DJ-k)). 
 
 ## 6. Igényelt üzleti folyamatok modellje
 
