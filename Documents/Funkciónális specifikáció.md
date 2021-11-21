@@ -6,6 +6,7 @@
 
 ## 2. Jelenlegi helyzet
 
+Szeretnénk nyújtani egy egyszerűen használható weboldalt, ahol megkönnyítenénk a zenei művész és az emberek közötti kapcsolatát , illetve hogy minél több emberhez eljusson a művész alkotásai.
 
 ## 3. Vágyálom rendszer
 
