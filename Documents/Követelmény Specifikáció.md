@@ -90,7 +90,7 @@ Jelen Felhasználási Feltételekben nem szabályozott kérdésekben a hatályos
 |Adatbázis|K12|Adatbázis rendszer|1.0|
 
 ### Kapcsolat
-Az Oldal támogatását az Üzemeltető végzi munkanapokon, 8:00 és 16:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
+Az Oldal támogatását az Üzemeltető végzi munkanapokon, 10:00 és 18:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
 ## Követelménylista
 
 
