@@ -23,7 +23,7 @@ Projekt szerepkörök, felelősségek
 
 **Projekt munkások és felelősségeik**
 
--   Webfelület:
+   Webfelület:
 -   Wordpress
 -   php
 ## 3. Üzleti folyamatok modellje
@@ -76,25 +76,22 @@ zerver:
 - Specifikáció: Klienssel ekvivalens
 
 - Operációs rendszer: Windows 7 vagy nagyobb
-
-- Komponensek: 
-
+ 
 ## 7. Absztrakt domain modell
 A program működése során a raktáros egy féle szerepkörben figyelhető meg. A raktáros képes polcokat foglalni, számlát kiállítani, illetve termékeket regisztrálni az adatbázisba.
 
-## Architekturális terv
- - Backend
+## 8. Architekturális terv
+- Backend
 	A rendszerhez szükség van egy adatbázis szerverre, ebben az esetben MySql-t használunk.
 	A kliensekkel JSON objektumokkal kommunikál.
  - Frontend
 	Az alkalmazás C#-ban,windows form keret rendszerrel készül.
 
-
-## 8. Architekturális terv
-
 ## 9. Adatbázis terv
+A zenei szolgáltatáshoz készül egy adatbázis ahol tároljuk a felhasználok adait.
 
 ## 10. Implementációs terv
+Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
 
 ## 11. Tesztterv
 
