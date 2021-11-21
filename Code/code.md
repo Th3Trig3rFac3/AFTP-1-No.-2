@@ -1,1 +1,1 @@
-AFTP-1-No.-2
+http://onewayticket.probaljaki.hu/
