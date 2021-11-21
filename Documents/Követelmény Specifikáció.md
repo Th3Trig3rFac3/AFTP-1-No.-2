@@ -37,9 +37,8 @@ A jelen Felhasználási Feltételekre vonatkozóan a magyar jog az irányadó, t
 
 ### Általános Információk
 
-A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók (a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók (a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatóját nem fogadják el, abban az esetben nem jogosultak az oldal használatára.
-
-A jelen Felhasználási Feltételekre vonatkozóan a magyar jog az irányadó, tekintet nélkül a nemzetközi magánjog előírásaira. Az Alkalmazás Felhasználói kifejezetten hozzájárulnak ahhoz, hogy jogvita esetén a magyar hatóságoknak és bíróságoknak kizárólagos joghatóságuk van a magyar jog alapján.
+A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók (a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazést használok (a továbbiakban: a Felhasználók)elfogadják a jelen felhasználási feltételeket.Amennyiben ezen Felhasználási Feltételekés az Oldal Tájékoztatóját nem fogadjákel, abban az esetben nem jogsultak az oldal használatára.
+A jelen Felhasználási Feltételekre vontatkozóan a magyar jog az irányadó és útmató,tekintet nélkül a nemzetközi magánjog előírásaira. Az Alkalmazás Felhasználói kifejezetten hozzájárulnak ahhoz,hogy jogvita esetén a magyar hatóságoknakés bíróságoknak kizárólagos joghatóságukvan a magyar jog alapján.
 
 ### Szellemi tulajdon
 
