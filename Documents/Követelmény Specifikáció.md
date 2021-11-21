@@ -91,16 +91,46 @@ Jelen Felhasználási Feltételekben nem szabályozott kérdésekben a hatályos
 
 ### Kapcsolat
 Az Oldal támogatását az Üzemeltető végzi munkanapokon, 10:00 és 18:00 között. Az Oldal működésével kapcsolatban a Felhasználó a AFTPNO_2@gmail.com e-mail címre küldheti kérdéseit, amelyre az Üzemeltető a fenti időszakban válaszol. Forduljon hozzánk teljes bizalommal.
-## Követelménylista
-
-
+|   Modul   | ID |  Név   |  Verzió  |
+|-----------|----|--------|----------|
+|Jogosultság| K1 | Bejelentkezés|1.0|
+|Jogosultság|K2|Regisztráció|1.0|
+|Jogosultság|K3|Jogosultsági szintek|1.0|
+|Modifikáció|K4|Felhasználó módosítása|1.0|
+|Modifikáció|K5|Jelszó módosítása|1.0|
+|Modifikáció|K6|Elfelejtett felhasználónév/jelszó|1.0|
+|Statisztika|K7|Összes megtekintések|1.0|
+|Felület|K8|Profil|1.0|
+|Felület|K9|Hozzászólások|1.0|
+|Jogosultság|K10|Admin felület|1.0|
+|Jogosultság|K11|Moderátor felület|1.0|
+|Adatbázis|K12|Adatbázis rendszer|1.0|
 
 ### Kifejtés
-
-
 #### ID
+- K1  A felhasználó a "Bejelentkezés" gombbal be tud jelentkezni a megadott felhasználónév és jelszó párossal. Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk a rendszer.
 
+- K2  A "Regisztráció" gombra kattintva a felhasználó megadhatja az oldal használatához szükséges adatokat: "Felhasználó" mezőbe egy egyedi felhasználónevet; "e-mail" mezőbe a saját érvényes e-mail címét; "Jelszó" mezőbe egy egyedi kulcsszót, amit harmadik személynek semmiféleképpen nem adhatunk ki.
+Ha bármelyik mező hiányzik, vagy hibásan van kitöltve, az aktuális mező fölött piros betűkkel tudatja velünk a rendszer.
 
+- K3  Felhasználói-Rendszerhozzáférés, like-olhat, küldhet üzenetet, tölthet fel profilképet, bemutatkozó szöveget.
 
+- K4 A felhasználó módosítani tudja saját Felhasználónevét a saját profil beállításain belül. Ehhez szükséges a régi és az új felhasználó név megadása, az új megerősítése, valamint a felhasználó jelszavának megadása.
+
+- K5 A felhasználó módosítani tudja saját jelszavát a saját profil beállításain belül. Ehhez szükséges a régi és az új jelszavának megadása, valamint az új megerősítése.
+
+- K6 Ha a felhasználó elfelejtette a felhasználónevét vagy jelszavát, akkor ezzel az opcióval egy Adminhoz tud fordulni e-mail címen keresztül.
+
+- K7 Egy lista a bejegyzésekről, hozzászólásokról, illetve témákról, valamint ezekről különféle statisztikák. (megtekintés, legfelkapottabb, stb.)
+
+- K8 A felhasználónak lehetősége van a profilján található szövegek módosítására.
+
+- K9 Ez egy reszponzív felület, amin keresztül a felhasználók hozzáférhetnek az oldalon lévő játékokhoz, hozzászólhatnak.
+
+- K10 Ez egy felület az admin fiókkal rendelkező felhasználók számára. Tartalmazza az egyes felhasználói csoportok jogainak szerkesztését, hozzászólások moderátori jelzését, új szobák létrehozását.
+
+- K11 Ez egy felület a moderátor fiókkal rendelkező felhasználók számára. Tartalmazza az egyes felhasználói csoportok jogainak szerkesztését, hozzászólások moderálási jogait, új szobák létrehozását.
+
+- K12 Adatbázis kapcsolat megtervezése és létrehozása.
 
 
