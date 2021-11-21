@@ -20,3 +20,5 @@ Projekt szerepkörök, felelősségek
 ## 4. Követelmények
 
 ## 5. Funkcionális terv
+
+## 6. Fizikai környezet
