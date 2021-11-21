@@ -26,3 +26,5 @@ Projekt szerepkörök, felelősségek
 ## 7. Absztrakt domain modell
 
 ## 8. Architekturális terv
+
+## 9. Adatbázis terv
