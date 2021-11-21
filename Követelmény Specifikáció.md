@@ -58,8 +58,6 @@ A jelen Felhasználási Feltételekre vonatkozóan a magyar jog az irányadó, t
 
 ## Követelménylista
 
-## Követelménylista
-
 |   Modul   | ID |  Név   |  Verzió  |
 |-----------|----|--------|----------|
 |Jogosultság| K1 | Bejelentkezés|1.0|
