@@ -2,6 +2,7 @@
 
 ## 1. Bevezetés
 
+Alapvetően a zene a társadalom egy széles körét érinti és érdekli. Viszont nem sok ember szeretne rá sok pénzt áldozni mivel nincs abban a társadalmi helyzetben, hogy megengedhetné magának, vagy csak egyszerűen nem szándékozik rá tekinteni többként, mint élvezet. Ezért gondoltuk - én és munkatársaim -, hogy nem lenne rossz ötlet elkészíteni egy olyan internetes oldalt, ahol az egyén vagy család képes betekintést nyerni a megrendelő által nyújtott zenei ízlésbe. A felhasználáshoz tartozni fog egy AFSZ-et is, ami lefed minden jogi tájékoztatást a felhasználás kapcsán.
 
 ## 2. Jelenlegi helyzet
 
