@@ -23,7 +23,11 @@ Szeretnénk nyújtani egy egyszerűen használható weboldalt, ahol megkönnyít
 
 
 ## 7. Használati esetek
+Adatbázisban  tárolt adatok:
+	Adatok hozzáadása, törlése, módosítása.
 
+# Követelmény lista:
+	Adatok hozzáadása, törlése, módosítás
 
 ## 8. Képernyőtervek
 
