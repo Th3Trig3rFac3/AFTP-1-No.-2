@@ -61,6 +61,8 @@ A Felhasználási Feltételek és az Oldal működésének a módosítására, a
 
 ### Értesítések
 
+Az Oldal használata során, a beépített üzenetküldő szolgáltatás segítségével értesítéseket kaphat a Felhasználó az Oldallal kapcsolatosan. Az oldal megnyitását követően első lépésként az Oldal engedélyt kér a rendszerszintű értesítésekhez, ezeket lemondani az oldalon lévő "Beállítások"-ban lehetséges.
+
 ### Garancia és kártérítés
 
 ### Egyéb rendelkezések
