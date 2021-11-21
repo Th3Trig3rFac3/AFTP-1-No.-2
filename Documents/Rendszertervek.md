@@ -18,3 +18,5 @@ Projekt szerepkörök, felelősségek
 ## 3. Üzleti folyamatok modellje
 
 ## 4. Követelmények
+
+## 5. Funkcionális terv
