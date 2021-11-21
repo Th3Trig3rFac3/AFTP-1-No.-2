@@ -30,6 +30,17 @@ Projekt szerepkörök, felelősségek
 
 ## 4. Követelmények
 
+- Funkcionális
+	- Webes környezetben való működés
+	- A foglalások és az ehhez tartozó adatok tárolása
+        - C# környezetben való működés
+	- Wordpress környezetben való működés
+ - Nem funkcionális
+	- Gyors működés, foglalások kilistázása
+	- Egyszerű, egyértelmű kezelés
+ - Törvényi előírások, szabványok
+	- GDPR követelményeinek való megfelelés
+
 ## 5. Funkcionális terv
 
 ## 6. Fizikai környezet
