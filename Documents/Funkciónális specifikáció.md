@@ -14,7 +14,7 @@ Szeretnénk nyújtani egy egyszerűen használható weboldalt, ahol megkönnyít
 
 ## 4. Feltételek
 
-
+Az alkalmazásunk létrehozásának alapfeltétele, a PHP, vagy valamilyen más webprogramozási nyelv. SQL adatbázist használtnánk, ahol elmentjük a regisztráló adatait. HTML-ben írjnánk tovább az oldal leíró részét, és ezzel szabványosítjuk azt. CSS-el felújítanánk az oldalunk külsőjét, amivel igényesen, dizájnosan és modernek fog kinézni.
 
 ## 5. Jelenlegi üzleti folyamatok modellje
 
