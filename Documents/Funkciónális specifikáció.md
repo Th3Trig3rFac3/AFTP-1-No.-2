@@ -12,3 +12,7 @@
 
 
 ## 4. Feltételek
+
+
+
+## 5. Jelenlegi üzleti folyamatok modellje
