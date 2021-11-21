@@ -16,3 +16,5 @@ Projekt szerepkörök, felelősségek
 | Junior fejlesztő: | A projekt elkészítése. Projekt munkások és felelősségeik |
 
 ## 3. Üzleti folyamatok modellje
+
+## 4. Követelmények
