@@ -68,7 +68,27 @@ Kliens:
     - Szükséges applikációk: Chrome böngésző
 
     - Konfiguráció: Nem specifikus.
+
+zerver:
+
+- Eszköz: Kliens
+
+- Specifikáció: Klienssel ekvivalens
+
+- Operációs rendszer: Windows 7 vagy nagyobb
+
+- Komponensek: 
+
 ## 7. Absztrakt domain modell
+A program működése során a raktáros egy féle szerepkörben figyelhető meg. A raktáros képes polcokat foglalni, számlát kiállítani, illetve termékeket regisztrálni az adatbázisba.
+
+## Architekturális terv
+ - Backend
+	A rendszerhez szükség van egy adatbázis szerverre, ebben az esetben MySql-t használunk.
+	A kliensekkel JSON objektumokkal kommunikál.
+ - Frontend
+	Az alkalmazás C#-ban,windows form keret rendszerrel készül.
+
 
 ## 8. Architekturális terv
 
