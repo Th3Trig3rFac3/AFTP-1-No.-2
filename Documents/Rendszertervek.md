@@ -45,7 +45,7 @@ Projekt szerepkörök, felelősségek
 
 - Rendszerszereplők
   - Admin
-  - Vendég
+  - User
   
 - Rendszerhasználati esetek és lefutásaik:
   - Admin
