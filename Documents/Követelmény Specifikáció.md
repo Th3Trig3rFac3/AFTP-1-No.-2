@@ -46,6 +46,8 @@ A weboldal és valamennyi kapcsolódó védjegy,szerzői jogi alkotás és egyé
 
 ### Használat
 
+Bárki lehet felhasználói aki természetes személyek. Az Oldal díjmentesen vehető igénybe, kizárólag privát, azaz nem üzletszerű módon és célra, kizárólag a jelen Felhasználási Feltételek szerint. Az Oldal letöltéséért és használatáért az adatforgalmat biztosító szolgáltató külön díjat számíthat fel. Az ezzel kapcsolatos esetlegesen felmerülő költségek a Felhasználót terhelik. 
+
 ### Felelősségi szabályok
 
 
