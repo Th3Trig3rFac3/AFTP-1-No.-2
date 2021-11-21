@@ -14,3 +14,5 @@ Projekt szerepkörök, felelősségek
 |---|:-|
 | Senior fejlesztő: | A junior fejlesztők munkájának felügyelete és megkönnyítése tanácsadás által, segíthetnek kisebb projektelemek elkészítésében is. |
 | Junior fejlesztő: | A projekt elkészítése. Projekt munkások és felelősségeik |
+
+## 3. Üzleti folyamatok modellje
