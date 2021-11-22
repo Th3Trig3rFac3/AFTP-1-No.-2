@@ -83,6 +83,11 @@ Biztonsági tesztelésre akkor van szükség, ha a rendszer szenzitív (pl. szem
 **Módszere:**
 A tesztet egy megbízott külső cég végzi.
 
+### 3.7 Go live teszt
+A go-live teszt egy próbaélesítés, melynek során a korábbi rendszerek továbbra is üzemelnek annak érdekében, hogy az élesítéskor keletkező problémák ne befolyásolják a normál üzemi működést.
+**Módszere:**
+A próbatelepítés a megrendelő által választott webtárhelyen történik, a programot a jövőben üzemeltető adminisztrátorok közreműködésével élesítik.
+
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
 ### 4.1 Tesztelési jelentés
