@@ -39,7 +39,7 @@ Feladatuk a háttérben működő programok megírása, randomizálás, JavaScri
 -   Wordpress
 -   php
 ## 3. Üzleti folyamatok modellje
-!(https://github.com/[fbalintofficial]/[AFTP-1-No.-2]/blob/[img]/adatbazis.jpg?raw=true)
+![Üzleti folyamatok modellje](adatbazis1.png)
 
 ## 4. Követelmények
 
