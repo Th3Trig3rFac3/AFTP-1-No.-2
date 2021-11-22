@@ -87,6 +87,24 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Szervezeti egység/ beosztás: |   |
 |  Dátum: | 
 
+### 5.2 Tesztelési jelentés - 2. Példa
+|   |   |
+|---|---|
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | |
+| A tesztelt folyamatok/funkciók/modulok leírása: | |
+| A tesztadatok típusa:  |  |
+| A tesztelt rendszer beállításai:  |  |
+| A tesztelés eredménye:  | |
+| Megjegyzések:  | -  |
+
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: | |
+|  Szervezeti egység/ beosztás: |  |
+|  Dátum: |   |
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
