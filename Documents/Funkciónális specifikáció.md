@@ -40,3 +40,6 @@ Wordpress használata,adatbázis használata,jelszó módosítás,felhasználó 
 
 ## 9. Forgatókönyvek
 
+### A támogatási rendszer forgatókönyve: 
+
+Sok esetben valamiért egyszerűen nem lehet csak úgy pénzt kérni, vagy meghatározni az értékét. Ilyenkor jól működik az adományozási rendszer. A "donate" szó adományozást vagy adakozást jelent. A lényege, hogy ilyenkor a "szolgáltató" nem kér pénzt a szolgáltatásáért (pl. egy szoftvergyártó az elkészített szoftverért, vagy egy YouTube-on népszerű videós a videóiért), de a működéséhez és megélhetéséhez természetszerűleg pénzre van szüksége. Ekkor jön a lehetőség, hogy azok a fogyasztók, akik az adott szoftvert használják vagy YouTube-ert nézik rendszeresen, fizessenek adomány formájában annyit, amennyit szeretnének, amennyire lehetőségük van, vagy amennyit számukra megér az adott dolog. Természetesen ez a két terület csak kiragadott téma volt, a sort lehetne folytatni, mert számos más esetben is fordulhat elő adományozási rendszer.
