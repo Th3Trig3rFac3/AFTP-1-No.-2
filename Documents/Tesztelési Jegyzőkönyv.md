@@ -79,6 +79,14 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 | A tesztelés eredménye:  |  |
 | Megjegyzések:  | -  |
 
+**Tesztelést elvégezte**
+
+|   |   |
+|---|---|
+|  Név: |   |
+|  Szervezeti egység/ beosztás: |   |
+|  Dátum: | 
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
