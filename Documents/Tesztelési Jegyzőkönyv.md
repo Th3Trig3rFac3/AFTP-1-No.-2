@@ -73,6 +73,11 @@ Az elfogadási teszt (angolul User Acceptance Test) célja a rendszer teljes fun
 **Módszere:**
 A teszt egy kontroll csoporttal zajlik, egy külső cégen keresztül.
 
+### 3.5 Terheléses teszt
+A terheléses teszt célja a tervezett kapacitások, valamint a rendelkezésre álló növekedési potenciál meghatározása.
+**Módszere:**
+A próba telepítést követően egy meghívott tesztközönséggel zajlik, szimulálva egy átlagos napi használatot.
+
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
 ### 4.1 Tesztelési jelentés
