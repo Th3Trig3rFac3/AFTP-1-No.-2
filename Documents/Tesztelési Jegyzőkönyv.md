@@ -42,6 +42,13 @@ Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
 | **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. |   |
 |**Projektvezető:**| | |
 
+### 2.2 Tesztadatok
+A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: ---
+A tesztadatok elkészítéséért és feltöltéséért felelős személy: ---
+
+A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
+- Az adatbázisba felvitt adatoknak csakis az UTF-8 kódtáblában található karaktereket szabad tartalmaznia.
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
