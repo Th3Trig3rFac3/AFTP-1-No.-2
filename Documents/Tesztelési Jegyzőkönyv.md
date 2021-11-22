@@ -9,6 +9,14 @@
 | **Utolsó mentés kelte:** | 2021.11.22 |
 | **Dokumentum célja:** | A weboldal továbbfejlesztése
 
+### Projektben résztvevő fejlesztők:
+
+|  Név | Szerepkör |
+|---|:-:|
+| Juhász Domonkos | Adatbázis fejlesztő, Tester |
+| Farkas Bálint  | Test manager, Tester |
+
+
 ## 1. Bevezetés
 
 A tesztelés célja a projektben megtalálható felépítésbeli, vagy formatervezési hibák feltárása.
