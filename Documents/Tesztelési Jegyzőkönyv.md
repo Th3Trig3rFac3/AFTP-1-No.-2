@@ -1,4 +1,13 @@
 # Teszt jegyzőkönyv
+### Main Project
+|  Dokumentum címe: (azonosítója) |  Sziauram_team - "Musician web portal" |
+|---|:-:|
+| **Minősítés: (állapot)**  |  Továbbfejlesztés |
+| **Verziószám:**  |  Beta 0.1 |
+| **Projekt név:** |  Musician web portal |
+| **Készítette:** | Sziauram_team |
+| **Utolsó mentés kelte:** | 2022.11.22 |
+| **Dokumentum célja:** | A weboldal továbbfejlesztése
 
 ## 1. Bevezetés
 
