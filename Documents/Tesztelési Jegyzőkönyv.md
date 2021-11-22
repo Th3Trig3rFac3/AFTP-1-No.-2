@@ -64,6 +64,21 @@ Ezen adatok többségét úgynevett "Lorem Ipsum" típusú, véletlenül generá
 A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes áttekintése a lefutott teszteknek, azok eredményeinek, státuszának és a megjegyzéseknek.
 A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést. 
 
+## 5. Tesztjegyzőkönyv
+### 5.1 Tesztelési jegyzőkönyv - 1. Példa
+
+|   |   |
+|---|---|
+| A teszt-eset leírás és célja:  |  |
+| A tesztelt folyamat/funkció leírása:  |   |
+| A tesztelés előfeltételei:  |  |
+| A tesztelés dátuma és időpontja:  |  |
+| A tesztet végző személy(ek):  |   |
+| A tesztelt rendszer beállításai:  |  |
+| A teszt-eset elvárt eredménye:  |  |
+| A tesztelés eredménye:  |  |
+| Megjegyzések:  | -  |
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
