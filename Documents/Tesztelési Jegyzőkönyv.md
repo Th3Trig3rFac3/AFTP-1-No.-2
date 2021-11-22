@@ -32,6 +32,9 @@ A tesztelési terv célja a tesztelés teljeskörűségének biztosítása, a te
 - Az olvasó ismeri az alapdokumentumokat, amelyek meghatározzák a rendszert.
 - A **Sziauram_team** projektcsapat felelős a tesztadatok előállításáért.
 
+## 2. Szükséges erőforrások
+Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
