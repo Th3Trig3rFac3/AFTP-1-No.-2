@@ -101,6 +101,8 @@ A user avagy vendég teszteket a fejlesztés végén végezzük el a funkciók k
 
 - A rendszer beüzemelésekor ajánlott egy hozzá szakértő emberre bízni a beüzemelést mivel a szerver elindításához szükség van némi hozzáértéshez.
 	Így elkerülve esetleges nem kívánatos hibák létre jöttét.
+  Az alkalmazás futtatásához egy általános felhasználású böngészőre van szükség.
+  Az alkalmazás eléréséhez regisztrációra van szükség, melybe később be kell jelentkezni, ez az adat tárolódik, a későbbi felhasználás esetére.
 
 ## 13. Karbantartási terv
 
