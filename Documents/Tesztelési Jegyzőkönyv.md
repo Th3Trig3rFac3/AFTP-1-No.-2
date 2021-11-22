@@ -95,7 +95,7 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 | A tesztadatok típusa:  |  |
 | A tesztelt rendszer beállításai:  |  |
 | A tesztelés eredménye:  | |
-| Megjegyzések:  | -  |
+| Megjegyzések:  | |
 
 **Tesztelést elvégezte**
 
@@ -104,6 +104,14 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |  Név: | |
 |  Szervezeti egység/ beosztás: |  |
 |  Dátum: |   |
+
+### 5.3 Jóváhagyások
+
+|   |   |
+|---|---|
+|  Név: |   |
+|  Szervezeti egység/ beosztás: |  |
+|  Dátum: |    |
 
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
