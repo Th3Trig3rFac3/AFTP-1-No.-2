@@ -60,6 +60,10 @@ Ezen adatok többségét úgynevett "Lorem Ipsum" típusú, véletlenül generá
 
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
+### 4.1 Tesztelési jelentés
+A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes áttekintése a lefutott teszteknek, azok eredményeinek, státuszának és a megjegyzéseknek.
+A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést. 
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
