@@ -70,7 +70,8 @@ Adatbázisban  tárolt adatok:
 
 # Követelmény lista:
 
-Adatok hozzáadása, törlése, módosítás
+Adatok hozzáadása, törlése, módosítás,
+Wordpress használata,adatbázis használata,jelszó módosítás,felhasználó fiók létrehozás.
 
 ## 8. Képernyőtervek
 
