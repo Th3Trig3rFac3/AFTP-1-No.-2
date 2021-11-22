@@ -104,23 +104,23 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 
 |   |   |
 |---|---|
-| A teszt-eset leírás és célja:  |  |
-| A tesztelt folyamat/funkció leírása:  |   |
-| A tesztelés előfeltételei:  |  |
-| A tesztelés dátuma és időpontja:  |  |
-| A tesztet végző személy(ek):  |   |
-| A tesztelt rendszer beállításai:  |  |
-| A teszt-eset elvárt eredménye:  |  |
-| A tesztelés eredménye:  |  |
+| A teszt-eset leírás és célja:  | A bejelentkezés menüpont tesztelése |
+| A tesztelt folyamat/funkció leírása:  | A felület viselkedése hibás felhasználónév / jelszó megadása esetén, megfelelő adatok esetén, illetve többszöri hibás bevitelekor, továbbá új felhasználói fiók regisztrálása sikeres-e.  |
+| A tesztelés előfeltételei:  | A programnak rendelkeznie kell minimum egy dummy adatbázissal |
+| A tesztelés dátuma és időpontja:  | 2021.11.20. 22:13 |
+| A tesztet végző személy(ek):  | Juhász Domonkos |
+| A tesztelt rendszer beállításai:  | A program specifikációjában szereplő alap beálítások |
+| A teszt-eset elvárt eredménye:  | A specifikációban taglalt viselkedés |
+| A tesztelés eredménye:  | **Megfelelt/élesíthető** |
 | Megjegyzések:  | -  |
 
 **Tesztelést elvégezte**
 
 |   |   |
 |---|---|
-|  Név: |   |
-|  Szervezeti egység/ beosztás: |   |
-|  Dátum: | 
+|  Név: | Juhász Domonkos |
+|  Szervezeti egység/ beosztás: | Adatbázis fejlesztő, Tester |
+|  Dátum: | 2021.11.20. 22:13 |
 
 ### 5.2 Tesztelési jelentés - 2. Példa
 |   |   |
