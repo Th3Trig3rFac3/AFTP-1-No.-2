@@ -15,6 +15,10 @@
 |---|:-:|
 | Juhász Domonkos | Adatbázis fejlesztő, Tester |
 | Farkas Bálint  | Test manager, Tester |
+| Ardó Balázs  | Vezető adatbázis fejlesztő |
+| Bodó Zoltán  | Adatbázis fejlesztő |
+| Zsadányi Rózsa  | Project Manager |
+| Kurán Bertalan  | Project Manager |
 
 
 ## 1. Bevezetés
@@ -38,10 +42,9 @@ Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
 ### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
 | Feladatkör  |  Felelősség/tevékenység |  Személy  |
 |---|---|---|
-|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  |
-| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. |   |
-|**Projektvezető:**| | |
-
+|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása | Juhász Domonkos, Farkas Bálint |
+| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. | Kurán Bertalan, Zsadányi Rózsa  |
+|**Projektvezető:**| | Tajti Tibor |
 ### 2.2 Tesztadatok
 A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: ---
 A tesztadatok elkészítéséért és feltöltéséért felelős személy: ---
