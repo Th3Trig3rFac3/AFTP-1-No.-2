@@ -63,6 +63,11 @@ A prototípus tesztelés (vagy másik nevén modultesztelés) célja a rendszer 
 **Módszere:**
 A program adatbázisába valós adatok kerülnek betöltésre.
 
+### 3.3 Integrációs teszt
+Az integrációs teszt célja a rendszer más rendszerekhez történő illesztésének vizsgálata, a több rendszeren keresztül átívelő funkciók tesztelésének érdekében. Az adatmigrációs tesztelés az integrációs teszteléshez tartozik, ennek lényege, hogy a bevezetendő rendszerbe áttöltik azokat az adatokat, amelyekkel a rendszer dolgozni fog, és letesztelik a betöltött adatok, illetve az adatokat kezelő funkciók helyességét. 
+**Módszere:**
+A program adatbázisába valós adatok kerülnek betöltésre.
+
 ### 3.4 Elfogadási teszt
 Az elfogadási teszt (angolul User Acceptance Test) célja a rendszer teljes funkcionalitásának vizsgálata a felhasználók szemszögéből
 **Módszere:**
