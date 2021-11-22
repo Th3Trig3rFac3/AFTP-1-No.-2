@@ -39,7 +39,7 @@ Feladatuk a háttérben működő programok megírása, randomizálás, JavaScri
 -   Wordpress
 -   php
 ## 3. Üzleti folyamatok modellje
-![](img/adatbazis.png)
+![](/Documents/img/adatbazis.png)
 
 ## 4. Követelmények
 
