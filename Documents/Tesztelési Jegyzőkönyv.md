@@ -3,7 +3,7 @@
 |  Dokumentum címe: (azonosítója) |  Sziauram_team - "Musician web portal" |
 |---|:-:|
 | **Minősítés: (állapot)**  |  Továbbfejlesztés |
-| **Verziószám:**  |  Beta 0.1 |
+| **Verziószám:**  |  1.1 Beta |
 | **Projekt név:** |  Musician web portal |
 | **Készítette:** | Sziauram_team |
 | **Utolsó mentés kelte:** | 2021.11.22 |
@@ -34,6 +34,13 @@ A tesztelési terv célja a tesztelés teljeskörűségének biztosítása, a te
 
 ## 2. Szükséges erőforrások
 Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
+
+### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
+| Feladatkör  |  Felelősség/tevékenység |  Személy  |
+|---|---|---|
+|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  |
+| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. |   |
+|**Projektvezető:**| | |
 
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
