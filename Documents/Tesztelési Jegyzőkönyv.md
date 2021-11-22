@@ -147,9 +147,9 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 
 |   |   |
 |---|---|
-|  Név: |   |
-|  Szervezeti egység/ beosztás: |  |
-|  Dátum: |    |
+|  Név: | Kurán Bertalan |
+|  Szervezeti egység/ beosztás: | Project Manager |
+|  Dátum: | 2021.22. 22:13 |
 
 ### 6. Unit tesztek
 
