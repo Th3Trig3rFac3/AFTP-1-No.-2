@@ -58,6 +58,12 @@ A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése,
 A program SQL adatbázisa "DUMMY" (*Nem valós*) adatokkal kerül feltöltésre a tesztelés alatt.
 Ezen adatok többségét úgynevett "Lorem Ipsum" típusú, véletlenül generált adat teszi ki.
 
+### 3.2 Prototípus (modul) teszt
+A prototípus tesztelés (vagy másik nevén modultesztelés) célja a rendszer már működő moduljainak önálló tesztelése, a modulon belüli hibák azonosításának és kiküszöbölésének érdekében. 
+**Módszere:**
+A program adatbázisába valós adatok kerülnek betöltésre.
+
+
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
 ### 4.1 Tesztelési jelentés
