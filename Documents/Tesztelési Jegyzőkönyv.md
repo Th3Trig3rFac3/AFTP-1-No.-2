@@ -125,12 +125,12 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 ### 5.2 Tesztelési jelentés - 2. Példa
 |   |   |
 |---|---|
-| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | |
-| A tesztelt folyamatok/funkciók/modulok leírása: | |
-| A tesztadatok típusa:  |  |
-| A tesztelt rendszer beállításai:  |  |
-| A tesztelés eredménye:  | |
-| Megjegyzések:  | |
+| A hivatkozott tesztjegyzőkönyvek rövid leírása és eredménye:  | Jogosultság tesztelése |
+| A tesztelt folyamatok/funkciók/modulok leírása: | Az alkalmazás Jogosultság funkció tesztelése |
+| A tesztadatok típusa:  | A programnak rendelkeznie kell minimum egy dummy adatbázissal |
+| A tesztelt rendszer beállításai:  | 2021.11.21. 13:58 |
+| A tesztelés eredménye:  | Megfelelt/élesíthető |
+| Megjegyzések:  | - |
 
 **Tesztelést elvégezte**
 
