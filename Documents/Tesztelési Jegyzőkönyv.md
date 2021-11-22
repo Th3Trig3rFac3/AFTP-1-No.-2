@@ -15,10 +15,6 @@
 |---|:-:|
 | Juhász Domonkos | Adatbázis fejlesztő, Tester |
 | Farkas Bálint  | Test manager, Tester |
-| Ardó Balázs  | Vezető adatbázis fejlesztő |
-| Bodó Zoltán  | Adatbázis fejlesztő |
-| Zsadányi Rózsa  | Project Manager |
-| Kurán Bertalan  | Project Manager |
 
 
 ## 1. Bevezetés
@@ -42,9 +38,10 @@ Ez a fejezet a teszteléshez szükséges erőforrásokat fejti ki.
 ### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
 | Feladatkör  |  Felelősség/tevékenység |  Személy  |
 |---|---|---|
-|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása | Juhász Domonkos, Farkas Bálint |
-| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. | Kurán Bertalan, Zsadányi Rózsa  |
-|**Projektvezető:**| | Tajti Tibor |
+|  **Tesztelő, Teszt-koordinátor:** |  A teszt végrehajtása, észrevételek dokumentálása, teszt dokumentáció archiválása.Tesztterv készítése.  A tesztterv jóváhagyatása a projektmenedzserrel.  A teszt forgatókönyvek létrehozása  inkonzisztenciák kezelése.  Helyes és időbeni hibakezelés.  Szükség esetén problémák delegálása a projekt menedzsernek.  Végső riport készítése.  Teszt dokumentum archiválása.  Az észrevételek státuszának követése, ill. dokumentálása |  |
+| **Szakértő:**  |  A szakértő az észrevételeket elemzi és megoldást javasol. |   |
+|**Projektvezető:**| | |
+
 ### 2.2 Tesztadatok
 A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: ---
 A tesztadatok elkészítéséért és feltöltéséért felelős személy: ---
@@ -159,11 +156,11 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.18|Donate rendszer|Wordpress donate rendszer tesztelése,gomb megnyomása|Az adott illető támogatás összege befolyik a számlára|1.0|
 |T2|Farkas Bálint|2021.10.19|Weboldal design|Wordpress weboldal megnyitása|Letisztult oldal megjelenítés|1.0|
-|T3|Bodó Zoltán|2021.10.20|Github műkődése|Gitkraken általá|Működő képes|1.0|
-|T4|Juhász Domonkos|2021.11.21|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T5|Ardó Balázs|2021.11.22|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T6|Farkas Bálint|2021.10.23|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T7|Juhász Domonkos|2021.11.26|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T8|Bodó Zoltán|2021.11.28|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T9|Ardó Balázs|2021.11.01|-----------------------------|-----------------------------|-----------------------------|1.0|
-|T10|Farkas Bálint|2021.11.03|-----------------------------|-----------------------------|-----------------------------|1.0|
+|T3|Bodó Zoltán|2021.10.20|Github műkődése|Gitkraken által|Működő képes|1.0|
+|T4|Juhász Domonkos|2021.11.21|Adatbázis tesztelése|PHPMYADMIN által|XAMPP által tesztelve|1.0|
+|T5|Ardó Balázs|2021.11.22|Adatbázis tesztelése|Függvények tesztelése|Sikeres lefutása a függvénynek|1.0|
+|T6|Farkas Bálint|2021.10.23|Donate rendszer|Műküdő képes gombok mellett a paypal rendszer is lefut|Sikeres teljesítés|1.0|
+|T7|Juhász Domonkos|2021.11.26|Általános hiba keresés a kódban|Wordpress segítségével|Hibátlan kód|1.0|
+|T8|Bodó Zoltán|2021.11.28|Témák kezelése|Wordpress segítségével|Megjelenítése hibátlan|1.0|
+|T9|Ardó Balázs|2021.11.01|Admin felület kezelése|Wordpress segítéségével|Működő képes admin felület|1.0|
+|T10|Farkas Bálint|2021.11.03|Jogosultsági szintek kezelése|PHPMYADMIN által|Összes jogosultsági szint működő képes|1.0|
