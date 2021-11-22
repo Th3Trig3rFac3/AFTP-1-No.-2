@@ -25,8 +25,22 @@ A mai világban a legtöbb ember rádión kívül nem igazán hallgat mást. Enn
 Mi egyszerűen biztosítunk ingyenesen (regisztrációval) elérhető tartalmat, illetve támogatói díj ellenében a teljes könyvtárat elérhetővé tesszik a felhasználók számára, akik akár le is tölthetik azt.
 
 ## 7. Használati esetek
-Adatbázisban  tárolt adatok:
-	Adatok hozzáadása, törlése, módosítása.
+
+A felhasználó az alábbi tevékenységeket végezheti általánosan:
+
+-   Böngészheti a weboldalt
+-   Megtekintheti a weboldalon lévő
+-   Regisztrálhat és törölheti a fiókját
+
+A felhasználó az alábbi tevékenységeket is végezheti regisztráció után: 
+
+-   Meghallgathatja a demo zeneszámokat
+-   használhatja a zene
+
+A felhasználó az alábbi tevékenységeket végezheti térítés megfizetése után:
+
+-   A teljes zenetárat használhatja
+-   Offline is meghallgathatja a kedvenceit, amennyiben letölti
 
 # Követelmény lista:
 
