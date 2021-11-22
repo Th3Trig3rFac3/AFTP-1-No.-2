@@ -21,6 +21,18 @@ Projekt szerepkörök, felelősségek
 | Senior fejlesztő: | A junior fejlesztők munkájának felügyelete és megkönnyítése tanácsadás által, segíthetnek kisebb projektelemek elkészítésében is. |
 | Junior fejlesztő: | A projekt elkészítése. Projekt munkások és felelősségeik |
 
+A projektet weblapra fejlesztjük front- és back -end segítségével. Az elkülönített feladatokon más-más emberek dolgoznak.
+
+### Frontend felelősök:
+
+Frontend fejlesztése HTML/CSS segítségével
+
+A feladat célja, hogy egy letisztult, könnyen kezelhető, igényes weblapot nyújtson a felhasználó számára.
+
+### Backend felelősök:
+
+Feladatuk a háttérben működő programok megírása, randomizálás, JavaScript kód, adatbázis kezelése, az eredmény kiértékelés, és az értékek mentése.
+
 **Projekt munkások és felelősségeik**
 
    Webfelület:
