@@ -10,7 +10,7 @@ A megrendelő egy egyszerű és könnyen kezelhető alkalmazást szeretne, ahol 
 
 ## 3. Vágyálom rendszer
 
-Szeretnénk nyújtani egy egyszerűen használható weboldalt, ahol megkönnyítenénk a zenei művész és az emberek közötti kapcsolatát , illetve hogy minél több emberhez eljusson a művész alkotásai.
+Szeretnénk nyújtani egy egyszerűen használható weboldalt, ahol megkönnyítenénk a zenei művész és az emberek közötti kapcsolatát, illetve hogy minél több emberhez eljusson a művész alkotásai. Terveink része a zenelejátszó átdolgozása. Többek között termünk új stílust adni neki, emelni a minőségén, növelni a hatékony működését és állíthatóvá tenni a letájtszó minőségét, hogy bármilyen internet kapcsolat mellett élvezhessük kedvenceinket. Továbbá, szeretnénk egy újabb, letisztultabb stílust adni a weboldalnak, hogy minél intuitívabb legyen. Ezt smnooth animációkkal tovább fokozva egy igazán gördülékeny weboldalt alkotnánk, ahol a felhasználó sosem érezné magát elveszve, megkönnyítve az általános felhasználást és a navigálást a különboző oldalak között.
 
 ## 4. Feltételek
 
