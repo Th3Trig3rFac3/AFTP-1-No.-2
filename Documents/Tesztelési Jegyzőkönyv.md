@@ -63,6 +63,10 @@ A prototípus tesztelés (vagy másik nevén modultesztelés) célja a rendszer 
 **Módszere:**
 A program adatbázisába valós adatok kerülnek betöltésre.
 
+### 3.4 Elfogadási teszt
+Az elfogadási teszt (angolul User Acceptance Test) célja a rendszer teljes funkcionalitásának vizsgálata a felhasználók szemszögéből
+**Módszere:**
+A teszt egy kontroll csoporttal zajlik, egy külső cégen keresztül.
 
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
