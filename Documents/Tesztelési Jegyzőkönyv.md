@@ -58,6 +58,8 @@ A fejlesztői tesztelés célja a rendszer alapvető funkcióinak ellenőrzése,
 A program SQL adatbázisa "DUMMY" (*Nem valós*) adatokkal kerül feltöltésre a tesztelés alatt.
 Ezen adatok többségét úgynevett "Lorem Ipsum" típusú, véletlenül generált adat teszi ki.
 
+## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
+
 | Sorszám                  |    Név                   |  Dátum     | Funkció leírás  	| Vizsgálat módja/eszköze,részletes leírása	|Elvárt eredmény	|Verzió	|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 |T1|Ardó Balázs|2021.10.02|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
