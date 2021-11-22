@@ -35,6 +35,7 @@ Adatok hozzáadása, törlése, módosítás
 ## 8. Képernyőtervek
 
 ![](img/oneywayticketdemo.jpg)
+![](img/donaterendszer.jpg)
 
 ## 9. Forgatókönyvek
 
