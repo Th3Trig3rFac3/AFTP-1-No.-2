@@ -88,6 +88,11 @@ A go-live teszt egy próbaélesítés, melynek során a korábbi rendszerek tov�
 **Módszere:**
 A próbatelepítés a megrendelő által választott webtárhelyen történik, a programot a jövőben üzemeltető adminisztrátorok közreműködésével élesítik.
 
+### 3.8 Tesztelési feladatok, teszt-esetek leírása
+A tesztelési feladat a következő teszt-eseteket foglalja magában:
+- Fejlesztői teszt
+- Prototípus (modul)
+
 ## 4 Tesztelési ütemterv, függőségek – tesztforgatókönyv
 
 ### 4.1 Tesztelési jelentés
