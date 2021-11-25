@@ -22,7 +22,7 @@ A mai világban a legtöbb ember rádión kívül nem igazán hallgat mást. Enn
 
 ## 6. Igényelt üzleti folyamatok modellje
 
-Mi egyszerűen biztosítunk ingyenesen (regisztrációval) elérhető tartalmat, illetve támogatói díj ellenében a teljes könyvtárat elérhetővé tesszik a felhasználók számára, akik akár le is tölthetik azt.
+Az általunk elkészített weboldalon egy olyan modernkori problémával igyekeztünk szembe nézni, amely bizonyos tartalomgyártóknak, művészeknek ebben a hirtelen fejlődő világban gyakorta kell szembenézniük. Sajnos ez a probléma nem mindenki számára könnyen abszolválható, de mi igyekeztünk erre törekedve a lehető legjobb megoldást találni a problémára. A weboldalon található tartalmakat kedvükre fogyaszthatják, de csak korlátozott mennyiségben. Azonban egy könnyed, gyors és ingyenes regisztráció után a tartalmakat támogatói díj ellenében szabadon használhatják, mindenféle korlátozások nélkül, amelyeket akár le is tölthetnek.
 
 ## 7. Használati esetek
 
