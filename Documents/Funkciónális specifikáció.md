@@ -64,3 +64,4 @@ Jogosultság: -Vendég: A vendég felhasználók bármikor kedvükre látogathat
 
 Modifikáció:-Név: A felhasználó ezzel a névvel alkotja meg a profilját, ami után mi azonosítani tudjuk, bármilyen tranzakció után, illetve ez által tudjuk őt azonosítani. -Jelszó: A jelszavát csak a felhasználó tudhatja, ami által meg tudja erősíteni a belépéskor saját profilját.
 
+Felület:-Kapcsolat menüpont alatt kaphat a felhasználó elérhetőséget a művészúrhoz, amely felületeken mindig felkeresheti esetleges weboldal problémák vagy egyéb témák kapcsán. -Profil menüpont alatt megtekintheti a felhasználó az általa elérhető tartalmakat, és kedvére szerkesztheti saját felhasználói fiókját.
