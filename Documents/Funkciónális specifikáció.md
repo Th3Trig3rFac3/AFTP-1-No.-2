@@ -60,4 +60,5 @@ Sok esetben valamiért egyszerűen nem lehet csak úgy pénzt kérni, vagy megha
 
 ## 10. Funkció-Követelmény megfeleltetése
 
+Jogosultság: -Vendég: A vendég felhasználók bármikor kedvükre látogathatják a weboldalt, de bizonyos tartalmak csak korlátozottan érhetőek el számukra. -Regisztráció: A regisztráció arra szolgál, hogy a vendég létre tudjon hozni magának egy profilt, amely megjegyzi a számára fontos tartalmi részeket. Ehhez azonban egy felhasználóinevet, valamint egy jelszót kell választania, amelyekkel a későbbiekben bármikor bejelentkezhet kedve szerint. -Felhasználó: A felhasználó a sikeres regisztráció után kedvére használhatja a tartalmakat, és egy kis támogatói díj ellenében korlátlan hozzáférést is biztosítunk számára a további tartalmak elérésében.
 
