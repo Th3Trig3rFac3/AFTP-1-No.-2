@@ -42,7 +42,8 @@ A felhasználó az alábbi tevékenységeket végezheti térítés megfizetése 
 -   A teljes zenetárat használhatja
 -   Offline is meghallgathatja a kedvenceit, amennyiben letölti
 
-Felhasználó: A felhasználó eleinte csak vendég szerepet tölt be a weboldalon. Ezzel a szerepkörrel bármikor kedvére látogathatja a weboldalt, azonban bizonyos korlátozások vonatkoznak rá. Ilyen például az, hogy nem tudja a tartalmakat teljes mértékben kiélvezni, valamint nem tud velük tevékenykedni. Azonban amikor úgy gondolja, hogy ez neki kevés, bármikor elérhető számára egy regisztrációs fül, ahol létrehozhatja a saját profilját. 
+Felhasználó: A felhasználó eleinte csak vendég szerepet tölt be a weboldalon. Ezzel a szerepkörrel bármikor kedvére látogathatja a weboldalt, azonban bizonyos korlátozások vonatkoznak rá. Ilyen például az, hogy nem tudja a tartalmakat teljes mértékben kiélvezni, valamint nem tud velük tevékenykedni. Azonban amikor úgy gondolja, hogy ez neki kevés, bármikor elérhető számára egy regisztrációs fül, ahol létrehozhatja a saját profilját.
+Regisztrált felhasználó: A regisztrált felhasználó testre szabhatja a profilját, és meghallgathatja a demo zeneszámokat. Amennyiben megelégelte a demo-k hallgatását, bármikor térítést fizethet a weboldalon. A térítést megfizető felhasználó: A térítést megfizető felhasználó bármelyik zeneszámot kedvére végig hallgathatja, és amennyiben letölti kedvenc számait, Offline állapotban meg tudja hallgatni.
 
 # Követelmény lista:
 
