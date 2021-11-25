@@ -42,6 +42,8 @@ A felhasználó az alábbi tevékenységeket végezheti térítés megfizetése 
 -   A teljes zenetárat használhatja
 -   Offline is meghallgathatja a kedvenceit, amennyiben letölti
 
+Felhasználó: A felhasználó eleinte csak vendég szerepet tölt be a weboldalon. Ezzel a szerepkörrel bármikor kedvére látogathatja a weboldalt, azonban bizonyos korlátozások vonatkoznak rá. Ilyen például az, hogy nem tudja a tartalmakat teljes mértékben kiélvezni, valamint nem tud velük tevékenykedni. Azonban amikor úgy gondolja, hogy ez neki kevés, bármikor elérhető számára egy regisztrációs fül, ahol létrehozhatja a saját profilját. 
+
 # Követelmény lista:
 
 Adatok hozzáadása, törlése, módosítás,
