@@ -33,6 +33,8 @@ Profil --> A felhasználó itt testre szabhatja saját profilképét, készíthe
 
 Térítési díj --> Az az összeg, aminek a megfizetése után kibővül a felhasználó által elérhető tartalmak a weboldalon
 
+free-to-use --> Ingyenesen használható
+
 ## Rendszerre vonatkozó törvények
 
 A Weboldalhoz való hozzáférést és annak használatát az alkalmazandó jogszabályok és jelen Felhasználási Feltételek és Adatkezelési tájékoztatók (a továbbiakban Felhasználási Feltételek) szabályozzák. Az alkalmazást használók (a továbbiakban: a Felhasználók) elfogadják a jelen felhasználási feltételeket. Amennyiben ezen Felhasználási Feltételeket és az Oldal Tájékoztatóját nem fogadják el, abban az esetben nem jogosultak az oldal használatára.
