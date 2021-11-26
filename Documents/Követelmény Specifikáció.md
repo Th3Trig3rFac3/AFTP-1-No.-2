@@ -60,7 +60,7 @@ Az új Ptk. a kártérítési felelősség szabályozása körében több ponton
 
 ### Technikai követelmények
 
-Az Oldal használatához szükséges technikai feltételek: Android operációs rendszer 4.0.3, vagy későbbi verziójával ellátott mobiltelefon, vagy tablet, vagy iOS operációs rendszer 9.0, vagy későbbi verziójával ellátott mobiltelefon,vagy tablet, vagy egy asztali számítógép ami Windows 7, vagy későbbi verziójával rendelkezik, valamint a használathoz megfelelő sávszélességű internetelérés. 
+Az Oldal használatához szükséges technikai feltételek: Android operációs rendszer 4.0.3, vagy későbbi verziójával ellátott mobiltelefon, vagy tablet, vagy iOS operációs rendszer 9.0, vagy későbbi verziójával ellátott mobiltelefon,vagy tablet, vagy egy asztali számítógép ami Windows 7, vagy későbbi verziójával rendelkezik, valamint a használathoz megfelelő sávszélességű internetelérés. A technikai feltételeket az Oldal megnyitásához és használatához a Felhasználónak kell teljesítenie. A technikai feltételek nem teljesüléséért a Fejlesztők nem vonható felelősségre. Ugyanígy nem vonhatók felelősségre a Fejlesztők az Oldal használatából a készüléken bekövetkező adatvesztésért, meghibásodásért. A Fejlesztők kizárnak minden kártérítési felelősséget az Oldalhoz csatlakozó minden külső szerver által nyújtott, vagy megjelenített adattal, információval kapcsolatban is. 
 
 ### Regisztráció és tárolt adatok
 
