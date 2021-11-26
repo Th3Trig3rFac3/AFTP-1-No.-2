@@ -66,6 +66,8 @@ Az Oldal használatához szükséges technikai feltételek: Android operációs 
 
 Az Oldal bizonyos funkciói csak regisztrációt követően vehetők használatba. A megjelenítés kizárólag a Google Chrome, Safari, Opera, Microsoft Edge felületén keresztül támogatott.
 
+Amennyiben más készüléken szándékozik megnyitni az oldalt az új eszközön nem igényel újabb regisztrációt és a korábbi, programban tárolt információk is elérhetőek maradnak bejelentkezést követően.
+
 ### Regisztráció és tárolt adatok
 
 Regisztrálni mindenki tud a weboldalon és létre tud hozzni magának egy saját fiókot, a jelszót megtudja jegyeztetni,fontos ,hogy tároljunk minden adatot a felhasználóról egy adatbázisban , esetlegesen ha az illető elfelejtené a jelszavát ezzel tudja magát azonosítani.A tárold adatokat szigorúan csak az adminisztrátor láthatja és kezelheti.Még az adminisztrátornak is szigorúan tilos vissza élni ezzel az adatokkal mivel ezek személyes adatok is lehetnek!!! Emelett a regisztráció során minden mezőt ki kell tölteni , illetve szeretnék ,hogy minél könnyebben lehessen be regisztrálni,hogy felhasználó barát legyen. A felhasználókat is megkérjük, hogy a jelszavukat olyan helyen tárolják ahol más nem fér hozzá, esetlegesen vissza élesek miatt, illetve természetesen ,hogy be tudjanak jelentkezni. Elfelejtett jelszót csak akkor tud a felhasználó kérni ha ki tölt bizonyos paramétereket, például gondolunk itt az email címre,nagyon fontos,hogy valódi email címet adjatok meg és legyen hozzájuk hozzá férésétek másnak pedig ne!
