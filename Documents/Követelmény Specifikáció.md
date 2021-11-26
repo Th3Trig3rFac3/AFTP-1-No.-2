@@ -15,7 +15,7 @@ A megrendelő szeretné kibővíteni a weboldalát. Az elképzelés a további t
 
 ## Igényelt üzleti folyamatok
 
-Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető mindenkinek a weboldalon keresztül. A művész ezt szeretné bővíteni fizetős tartalmakkal.
+Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető mindenkinek a weboldalon keresztül. A művész ezt szeretné bővíteni fizetős tartalmakkal.Terveztünk egy felületet ami az eredeti oldalról lesz megnyitható, amint a felhasználó regisztrált. Ezen oldalon lesznek elérhetőek a művész fizetős tartalmai, valamint ezen oldalon nyílik majd a felhasználónak lehetősége fizetni, adományozni a művésznek. Amíg a felhasználó nem fizet a fizetős tartalmaknak csak a demo verziókat hallgathatja. Az adományozás után elérhetővé válnak a fizetős tartalmak. Ezt követően a felhasználó már kedvére hallgathatja, letöltheti az eddig el nem ért zenéket is.
 
 ## Vágyálom rendszer
 
