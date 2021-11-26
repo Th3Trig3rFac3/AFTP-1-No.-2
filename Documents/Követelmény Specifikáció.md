@@ -15,7 +15,7 @@ A megrendelő szeretné kibővíteni a weboldalát. Az elképzelés a további t
 
 ## Igényelt üzleti folyamatok
 
-Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető mindenkinek a weboldalon keresztül. A művész ezt szeretné bővíteni fizetős tartalmakkal, amit a következő fejezetben fogunk kifejteni.
+Jelenleg free-to-use alapon minden feltöltött kép- és hanganyag elérhető mindenkinek a weboldalon keresztül. A művész ezt szeretné bővíteni fizetős tartalmakkal.
 
 ## Vágyálom rendszer
 
