@@ -167,3 +167,19 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |T8|Bodó Zoltán|2021.11.28|Témák kezelése|Wordpress segítségével|Megjelenítése hibátlan|1.0|
 |T9|Ardó Balázs|2021.11.01|Admin felület kezelése|Wordpress segítéségével|Működő képes admin felület|1.0|
 |T10|Farkas Bálint|2021.11.03|Jogosultsági szintek kezelése|PHPMYADMIN által|Összes jogosultsági szint működő képes|1.0|
+
+### 7.Teszt
+
+
+|Modul|Név|Időpont|Működik?|
+|Bejelentkezés|Ardó Balázs|2021.12.11.|Igen|
+|Regisztráció|Ardó Balázs|2021.12.11.|Igen|
+|Jogosultsági szint|Ardó Balázs|2021.12.11.|Igen|
+|Felhasználó módosítása|Ardó Balázs|2021.12.11.|Igen|
+|Jelszó módosítása|Ardó Balázs|2021.12.11.|Igen|
+|Elfelejtett felhasználónév/jelszó|Ardó Balázs|2021.12.11.|Igen|
+|Profil|Ardó Balázs|2021.12.11.|Igen|
+|Donate rendszer|Ardó Balázs|2021.12.11.|Igen|
+|Hozzászólások|Ardó Balázs|2021.12.11.|Igen|
+|Admin felületek|Ardó Balázs|2021.12.11.|Igen|
+|Adatbázis rendszer|Ardó Balázs|2021.12.11.|Igen|
