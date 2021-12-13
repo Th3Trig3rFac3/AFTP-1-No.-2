@@ -184,3 +184,17 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 |Hozzászólások|Ardó Balázs|2021.12.11.|Igen|
 |Admin felületek|Ardó Balázs|2021.12.11.|Igen|
 |Adatbázis rendszer|Ardó Balázs|2021.12.11.|Igen|
+
+|Modul|Név|Időpont|Működik?|
+|----|----|-----|-----|
+|Bejelentkezés|Bodó Zoltán|2021.12.12.|Igen|
+|Regisztráció|Bodó Zoltán|2021.12.12.|Igen|
+|Jogosultsági szint|Bodó Zoltán|2021.12.12.|Igen|
+|Felhasználó módosítása|Bodó Zoltán|2021.12.12.|Igen|
+|Jelszó módosítása|Bodó Zoltán|2021.12.12.|Igen|
+|Elfelejtett felhasználónév/jelszó|Bodó Zoltán|2021.12.12.|Igen|
+|Profil|Bodó Zoltán|2021.12.12.|Igen|
+|Donate rendszer|Bodó Zoltán|2021.12.12.|Igen|
+|Hozzászólások|Bodó Zoltán|2021.12.12.|Igen|
+|Admin felületek|Bodó Zoltán|2021.12.12.|Igen|
+|Adatbázis rendszer|Bodó Zoltán|2021.12.12.|Igen|
