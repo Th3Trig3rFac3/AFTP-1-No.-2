@@ -172,6 +172,7 @@ A tesztkoordinátor juttatja el a projektmenedzsernek a tesztelési jelentést.
 
 
 |Modul|Név|Időpont|Működik?|
+|----|----|-----|-----|
 |Bejelentkezés|Ardó Balázs|2021.12.11.|Igen|
 |Regisztráció|Ardó Balázs|2021.12.11.|Igen|
 |Jogosultsági szint|Ardó Balázs|2021.12.11.|Igen|
